@@ -30,6 +30,14 @@
           <option name="url" value="https://github.com/michaelvitucci1/MP-7-Final-Project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-RuntimePermissionsBasic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SamChyu/android-RuntimePermissionsBasic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Sam Chyu\AndroidStudioProjects" />
